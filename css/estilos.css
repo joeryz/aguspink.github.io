@@ -1,0 +1,90 @@
+body {
+    padding: 15px;
+    background-color:antiquewhite;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.span1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: palevioletred;
+    font-size: xx-large;
+}
+
+#cuenta {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.simply-section {
+    background-color: rosybrown;
+    color: white;
+    width: 60px;
+    height: 90px;
+    margin: 0 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.simply-amount {
+    display: block;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.simply-word {
+    font-weight: 100;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.titulo {
+    display: flex;
+    font-size: 1.3rem;
+ }
+ 
+ .link {
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    transition: none;
+ }
+ 
+ span2 {
+     color:black;
+ }
+ 
+ p {
+     padding: 10px;
+ }
+ 
+ #btn {
+    background-color: rgb(206, 25, 55);
+ }
+
+.par1 {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.h3 {
+    color: blueviolet;
+}
+
+.whats {
+    font-family:cursive;
+    font-size: 15px;
+}
+
+span3 {
+    color: green;
+    font-size: 30px;
+}
